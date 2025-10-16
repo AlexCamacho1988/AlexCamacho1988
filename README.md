@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Alejandro Camacho
+![Header](./github-header-banner.png)
 
 I'm passionate about data and its power to tell stories, uncover opportunities, and support strategic decision-making. I trained as a Data Analyst and earned my degree in Electronics Engineer, developing skills in handling large datasets, data visualization, and statistical modeling.
 
