@@ -10,7 +10,7 @@ If we share similar interests or you think we could collaborate, feel free to co
 
 ## Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Tableau](https://img.shields.io/badge/Tableau-8A2BE2)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![AB](https://img.shields.io/badge/AB_Test-8A2BE2)
 ![Data](https://img.shields.io/badge/Data_Analysis-8A2BE2)
