@@ -14,3 +14,11 @@ If we share similar interests or you think we could collaborate, feel free to co
 ![SQL](https://img.shields.io/badge/SQL-8A2BE2)
 ![AB](https://img.shields.io/badge/AB_Test-8A2BE2)
 ![Data](https://img.shields.io/badge/Data_Analysis-8A2BE2)
+![Pandas](https://img.shields.io/badge/Pandas-8A2BE2)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-8A2BE2)
+![C](https://img.shields.io/badge/C_Programming-8A2BE2)
+![AGILE](https://img.shields.io/badge/Agile-8A2BE2)
+![Plotly](https://img.shields.io/badge/Plotly-8A2BE2)
+
+## Contact me: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2)](https://www.linkedin.com/in/alejandro-camacho-quezada/)
