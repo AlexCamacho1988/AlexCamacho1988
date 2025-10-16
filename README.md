@@ -9,5 +9,5 @@ I'm always learning and looking for opportunities to apply my skills in projects
 If we share similar interests or you think we could collaborate, feel free to connect!
 
 ## Skills:
-(https://img.shields.io/badge/Python-8A2BE2)</br>
-(https://img.shields.io/badge/Tableau-8A2BE2)</br>
+![Pyhon](https://img.shields.io/badge/Python-8A2BE2)</br>
+![Tableau](https://img.shields.io/badge/Tableau-8A2BE2)</br>
