@@ -9,16 +9,18 @@ I'm always learning and looking for opportunities to apply my skills in projects
 If we share similar interests or you think we could collaborate, feel free to connect!
 
 ## Skills:
-![Pyhon](https://img.shields.io/badge/Python-8A2BE2)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Tableau](https://img.shields.io/badge/Tableau-8A2BE2)
-![SQL](https://img.shields.io/badge/SQL-8A2BE2)
+![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![AB](https://img.shields.io/badge/AB_Test-8A2BE2)
 ![Data](https://img.shields.io/badge/Data_Analysis-8A2BE2)
-![Pandas](https://img.shields.io/badge/Pandas-8A2BE2)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-8A2BE2)
-![C](https://img.shields.io/badge/C_Programming-8A2BE2)
-![AGILE](https://img.shields.io/badge/Agile-8A2BE2)
-![Plotly](https://img.shields.io/badge/Plotly-8A2BE2)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## Contact me: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/alejandro-camacho-quezada/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-camacho-quezada/)
