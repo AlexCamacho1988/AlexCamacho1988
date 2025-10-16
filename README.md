@@ -21,5 +21,4 @@ If we share similar interests or you think we could collaborate, feel free to co
 ![Plotly](https://img.shields.io/badge/Plotly-8A2BE2)
 
 ## Contact me: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2)](https://www.linkedin.com/in/alejandro-camacho-quezada/)
-[![Mail](https://img.shields.io/badge/Gmail-8A2BE2)](ajcamachoquezada@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/alejandro-camacho-quezada/)
