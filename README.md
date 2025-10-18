@@ -1,5 +1,11 @@
 ![Header](./github-header-banner.png)
 
+# "Curiosity is the most powerful attribute of knowledge."
+
+I am a self-taught person who enjoys constantly learning new things in the field of technology. I like learning from the experiences of others. I strive to stay focused and centered on all my tasks and to support the people around me.
+
+I enjoy learning programming languages, especially C and Python, as well as some microcontrollers and circuit design, since I believe these are powerful tools that make people’s daily lives easier and are practically all around us.
+
 I'm passionate about data and its power to tell stories, uncover opportunities, and support strategic decision-making. I trained as a Data Analyst and earned my degree in Electronics Engineer, developing skills in handling large datasets, data visualization, and statistical modeling.
 
 I enjoy staying constantly up to date and recently completed a tech bootcamp at TripleTen, where I was able to put my knowledge with tools like Python, SQL, Excel, and Tableau, and gained experience cleaning, transforming, and analyzing real-world data to solve practical problems. I also have a solid understanding of statistics, programming logic, and relational databases.
